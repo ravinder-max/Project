@@ -18,6 +18,7 @@ This is a Spotify Web Player Clone built using only HTML and CSS. It replicates 
 
   📷 Screenshots
   ![Screenshot 1](Spotify1.png)
+  
   ![Screenshot 2](Spotify2.png)
 
   🤝 Contributing
